@@ -1,4 +1,4 @@
-# Dreamers Ecosystem
+# Dreamers Climb
 
 A dreamlike arcade-climbing game and a companion wellness dashboard.
 
